@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdca8557-02eb-4d30-9222-e97e393d7b73" name="Default" comment="Outsourced logic for method 'Customer.amountFor()'&#10;&#10;Outsourced logic into Rental.getCharge">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Customer.java" afterPath="$PROJECT_DIR$/src/Customer.java" />
+    <list default="true" id="bdca8557-02eb-4d30-9222-e97e393d7b73" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FowlerFC.iws" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.65700483" vertical-offset="0" max-vertical-offset="782">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="e#1446#1447#0" expanded="true" />
                 <element signature="e#1488#1489#0" expanded="true" />
@@ -95,6 +94,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -169,7 +184,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -589,7 +604,7 @@
       <created>1429773721129</created>
       <updated>1429773721129</updated>
       <workItem from="1429773722904" duration="271000" />
-      <workItem from="1429774991886" duration="4576000" />
+      <workItem from="1429774991886" duration="4969000" />
     </task>
     <task id="LOCAL-00001" summary="Outsourced logic for method 'Customer.amountFor()'&#10;&#10;Outsourced logic into Rental.getCharge">
       <created>1429775315207</created>
@@ -607,15 +622,19 @@
       <created>1429776653796</created>
       <updated>1429776653796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added frequent rental points to Statement&#10;&#10;Added frequent rental points to Customer.statement">
+      <created>1429780320531</created>
+      <updated>1429780320531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4847000" />
+    <option name="totallyTimeSpent" value="5240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -665,7 +684,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Outsourced logic for method 'Customer.amountFor()'&#10;&#10;Outsourced logic into Rental.getCharge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Outsourced logic for method 'Customer.amountFor()'&#10;&#10;Outsourced logic into Rental.getCharge" />
+    <MESSAGE value="Added frequent rental points to Statement&#10;&#10;Added frequent rental points to Customer.statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added frequent rental points to Statement&#10;&#10;Added frequent rental points to Customer.statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -751,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/src/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65700483" vertical-offset="0" max-vertical-offset="782">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="e#1446#1447#0" expanded="true" />
             <element signature="e#1488#1489#0" expanded="true" />
